@@ -7,7 +7,7 @@
   "dependencies": {
     "@types/async": "^2.0.40",
     "@types/chance": "^0.7.32",
-    "@types/node": "^7.0.13",
+    "@types/node": "^8.0.53",
     "@types/object-assign": "^4.0.30",
     "async": "^2.3.0",
     "brfs": "^1.4.3",
@@ -22,7 +22,7 @@
     "browserify-shim": "^3.8.14",
     "licensify": "^3.1.2",
     "typescript": "^2.2.1",
-    "uglify-js": "^2.8.22"
+    "uglify-js": "^3.1.9"
   },
   "scripts": {
     "prebuild": "rm -r dist/* lib/* docs/assets/* || true",
