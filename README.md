@@ -1,5 +1,7 @@
 # DiceBear Avatars
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/DiceBear/avatars.svg)](https://greenkeeper.io/)
+
 ![license](https://img.shields.io/github/license/dicebear/avatars.svg)
 [![npm](https://img.shields.io/npm/v/@dicebear/avatars.svg)](https://www.npmjs.com/package/@dicebear/avatars)
 ![Bower](https://img.shields.io/bower/v/dicebear-avatars.svg)
